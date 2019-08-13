@@ -1,26 +1,40 @@
+body{
+padding: 0%;
+margin: 0%;
+background-color: lightgrey;
+color: black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
-/* .Name{
-    float: left;
-    width:25%;
-    background-color: blueviolet;
+.nav-bar{
+    padding:10px;
+    margin: 10px;
+    line-height: 10px;
+    width:100%;
+    background-color: whitesmoke;
+
+
+}
+
+.bigbox{
+    padding:5%;
+    margin-top: 15px;
+    width:50%;
+    background-color: whitesmoke;
     margin-bottom: 20px;
+    margin-left: 25%;
+    
 
 }
-.menu{
-float: right;
-width: 75%; */
 
-.Name{
-float: left;
-background-color: whitesmoke;
-color: grey;
-width: 100%;
-height: 45px;
-padding: 25px;
-margin-bottom: 15px;
+h2{
+    float: right;
+    margin: -3%;
+    padding: 0%;
+    font-size: 15px;
 }
 
-.Menu{
-float: right;
-width: 75%;
+h4{
+    font-size: 18px;
 }
+
